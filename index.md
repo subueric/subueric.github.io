@@ -64,7 +64,7 @@ For Example:
 
 So the number of actual reactions are R1, R2,R3 and R4. Where as we just have three equations for plane structures i.e
 
-∑ Fx = 0, ∑ Fy = 0, ∑ Mz = 0,
+<math>&sum; Fx = 0, <math>&sum; Fy = 0, <math>&sum;  Mz = 0,
 
 so the degree of indeterminacy= 4-3 = 1, This type of Indeterminacy is know as **statical Indeterminacy.**
 
@@ -76,7 +76,7 @@ A structure is kinematically indeterminate when static equilibrium equation forc
 
 So the unknown reactions are: R1, R2, R3, So now we have three equations of equilibrium i.e 
 
-∑ Fx = 0, ∑ Fy = 0, ∑ Mz = 0
+<math>&sum; Fx = 0, <math>&sum;  Fy = 0, <math>&sum;  Mz = 0
 
 so the forces and reactions can be evaluated, such structures are **Kinematically Indeterminate.**
 
@@ -154,13 +154,4 @@ N = 3, S = 0, R = 0
 
 = 12
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/subueric/subueric.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   
