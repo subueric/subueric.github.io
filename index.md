@@ -64,7 +64,7 @@ For Example:
 
 So the number of actual reactions are R1, R2,R3 and R4. Where as we just have three equations for plane structures i.e
 
-<math>&sum; Fx = 0, <math>&sum; Fy = 0, <math>&sum;  Mz = 0,
+∑ Fx = 0, ∑ Fy = 0, ∑ Mz = 0
 
 so the degree of indeterminacy= 4-3 = 1, This type of Indeterminacy is know as **statical Indeterminacy.**
 
@@ -76,7 +76,8 @@ A structure is kinematically indeterminate when static equilibrium equation forc
 
 So the unknown reactions are: R1, R2, R3, So now we have three equations of equilibrium i.e 
 
-<math>&sum; Fx = 0, <math>&sum;  Fy = 0, <math>&sum;  Mz = 0
+∑ Fx = 0, ∑ Fy = 0, ∑ Mz = 0
+   
 
 so the forces and reactions can be evaluated, such structures are **Kinematically Indeterminate.**
 
